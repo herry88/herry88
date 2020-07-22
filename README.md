@@ -19,5 +19,8 @@
 - Dicoding Belajar Fundamental Aplikasi Android 
 - Dicoding Belajar Android Pemula
 - Dicoding Memulai Pemrograman Dart
+- Dicoding Belajar Prinsip Pemrograman SOLID
 - Python 
 - Java (PPPPTK BMTI)
+
+
