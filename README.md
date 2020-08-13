@@ -21,6 +21,7 @@
 - Dicoding Belajar Android Pemula
 - Dicoding Memulai Pemrograman Dart
 - Dicoding Belajar Prinsip Pemrograman SOLID
+- Dicoding Belajar Dasar Pemrograman Web
 - Python 
 - Java (PPPPTK BMTI)
 
