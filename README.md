@@ -22,6 +22,7 @@
 - Dicoding Memulai Pemrograman Dart
 - Dicoding Belajar Prinsip Pemrograman SOLID
 - Dicoding Belajar Dasar Pemrograman Web
+- Memulai Pemrograman dengan python (Dicoding)
 - Python 
 - Java (PPPPTK BMTI)
 
