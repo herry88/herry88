@@ -1,6 +1,6 @@
 ### Teacher Software Engineer 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=herry88&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=herry88&show_icons=true&theme=dark)
 
 ### Works : 
 - Teaching RPL SMKN 1 Gunung Putri
