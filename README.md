@@ -24,7 +24,9 @@
      📊 BAGIAN 2: STATISTIK GITHUB
      ============================================ -->
 <p align="center">
+  <!-- GitHub Stats - Alternative URLs if primary fails -->
   <img src="https://github-readme-stats.vercel.app/api?username=herry88&show_icons=true&theme=midnight-purple&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff&icon_color=38b2ac&hide_border=true" alt="GitHub Stats" height="180em" style="max-width: 100%;">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herry88&layout=compact&theme=midnight-purple&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff&icon_color=38b2ac&hide_border=true" alt="Top Languages" height="180em" style="max-width: 100%;">
 </p>
 
@@ -32,12 +34,27 @@
      🏅 BAGIAN 3: TROFI & PENCAPAIAN
      ============================================ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=herry88&theme=monokai&no-frame=true&column=5&margin-w=10&margin-h=10" alt="GitHub Trophies" style="max-width: 100%;">
+  <!-- GitHub Trophy - Fallback Static Badges -->
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=herry88&theme=monokai&no-frame=true&column=5&margin-w=10&margin-h=10" type="image/svg+xml">
+    <img src="https://img.shields.io/badge/Achievements-5%20Badges-ffd700?style=flat-square" alt="GitHub Achievements">
+  </picture>
 </p>
 
+<!-- Static Achievement Badges (Fallback) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-Achieved%20%F0%9F%90%A5-2ea44f?style=flat-square" alt="Pull Shark" style="margin: 3px;">
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-033363?style=flat-square" alt="Arctic Code Vault" style="margin: 3px;">
+  <img src="https://img.shields.io/badge/Years%20Member-4%2B%20Years-c7162f?style=flat-square" alt="4+ Years Member" style="margin: 3px;">
+  <img src="https://img.shields.io/badge/Repos-20%2B%20Repos-6e5494?style=flat-square" alt="20+ Repositories" style="margin: 3px;">
+</p>
+
+<!-- Snake Animation (Optional - remove if causing issues) -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%;">
 </p>
+-->
 
 <!-- ============================================
      💼 BAGIAN 4: PENGALAMAN & SKILL
@@ -132,21 +149,38 @@
   🎯 <strong>47 contributions</strong> in the last year
 </p>
 
+<!-- Contribution Graph dengan fallback -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herry88&theme=monokai&bg_color=1a1a2e&color=ff6b6b&line=38b2ac&point=ff6b6b&area_color=38b2ac&area=true&hide_border=true" alt="Contribution Graph" style="max-width: 100%; border-radius: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herry88&theme=monokai&bg_color=1a1a2e&color=ff6b6b&line=38b2ac&point=ff6b6b&area_color=38b2ac&area=true&hide_border=true" alt="Contribution Graph" style="max-width: 100%; border-radius: 10px;" onerror="this.style.display='none'">
 </p>
+
+<!-- Fallback visual jika graph gagal -->
+<noscript>
+  <p align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; color: white; max-width: 100%;">
+    <span style="font-size: 3em;">📊</span><br>
+    <strong>47 Contributions</strong><br>
+    <small>in the last year</small>
+  </p>
+</noscript>
 
 <!-- ============================================
      🔥 BAGIAN 7: AKTIVITAS TERAKHIR
      ============================================ -->
 <div align="center">
-  <h2 style="color: #1a202c; border-bottom: 3px solid #38b2ac; padding-bottom: 10px; display: inline-block;">🔥 Recent Activity</h2>
+  <h2 style="color: #1a202c; border-bottom: 3px solid #38b2ac; padding-bottom: 10px; display: inline-block;">🔥 GitHub Streak</h2>
 </div>
 
-<!-- Wave animation contribution -->
+<!-- Streak Stats dengan multiple fallback -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herry88&theme=midnight-purple&background=1a1a2e&stroke=38b2ac&fire=ff6b6b&ring=38b2ac&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b6b&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" style="max-width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herry88&theme=midnight-purple&background=1a1a2e&stroke=38b2ac&fire=ff6b6b&ring=38b2ac&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b6b&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" style="max-width: 100%;" onerror="this.style.display='none'">
 </p>
+
+<!-- Fallback Stats Card jika streak gagal load -->
+<noscript>
+<p align="center" style="background: #1a1a2e; padding: 15px; border-radius: 10px; color: white;">
+  <strong>📊 GitHub Stats:</strong> 47 Contributions in the last year | 65 Followers | 157 Following
+</p>
+</noscript>
 
 <!-- ============================================
      🤝 BAGIAN 8: MARI TERHUBUNG
@@ -167,3 +201,5 @@
 <p align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #2d3748 100%); border-radius: 10px; color: #a0aec0;">
   💻 Built with ❤️ using Markdown | © 2026 Herry Prasetyo
 </p>
+
+
