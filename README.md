@@ -41,13 +41,7 @@
   </picture>
 </p>
 
-<!-- Static Achievement Badges (Fallback) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-Achieved%20%F0%9F%90%A5-2ea44f?style=flat-square" alt="Pull Shark" style="margin: 3px;">
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-033363?style=flat-square" alt="Arctic Code Vault" style="margin: 3px;">
-  <img src="https://img.shields.io/badge/Years%20Member-4%2B%20Years-c7162f?style=flat-square" alt="4+ Years Member" style="margin: 3px;">
-  <img src="https://img.shields.io/badge/Repos-20%2B%20Repos-6e5494?style=flat-square" alt="20+ Repositories" style="margin: 3px;">
-</p>
+
 
 <!-- Snake Animation (Optional - remove if causing issues) -->
 <!--
