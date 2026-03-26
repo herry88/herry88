@@ -32,7 +32,7 @@
      🏅 BAGIAN 3: TROFI & PENCAPAIAN
      ============================================ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=herry88&theme=monokai&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=herry88&theme=monokai&no-frame=true&column=5&margin-w=10&margin-h=10" alt="GitHub Trophies" style="max-width: 100%;">
 </p>
 
 <p align="center">
