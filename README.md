@@ -25,9 +25,9 @@
      ============================================ -->
 <p align="center">
   <!-- GitHub Stats - Alternative URLs if primary fails -->
-  <img src="https://github-readme-stats.vercel.app/api?username=herry88&show_icons=true&theme=midnight-purple&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff&icon_color=38b2ac&hide_border=true" alt="GitHub Stats" height="180em" style="max-width: 100%;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=herry88&show_icons=true&theme=midnight-purple&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff&icon_color=38b2ac&hide_border=true" alt="GitHub Stats" height="180em" style="max-width: 100%;">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herry88&layout=compact&theme=midnight-purple&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff&icon_color=38b2ac&hide_border=true" alt="Top Languages" height="180em" style="max-width: 100%;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=herry88&layout=compact&theme=midnight-purple&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff&icon_color=38b2ac&hide_border=true" alt="Top Languages" height="180em" style="max-width: 100%;">
 </p>
 
 <!-- ============================================
